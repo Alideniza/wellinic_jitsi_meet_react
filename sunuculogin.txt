@@ -1,0 +1,1 @@
+ssh -i "/Users/mertpeker/Desktop/wellinic/jitsi-meet-key.pem" ubuntu@ec2-35-159-235-95.eu-central-1.compute.amazonaws.com
